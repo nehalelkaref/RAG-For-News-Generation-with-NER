@@ -1,1 +1,3 @@
-# RAG-For-News-Generation-with-NER
+# RAG based News Generation with NER
+🏷️ LanghChain 🏷️ Pinecone 🏷️ OpenAI Models 🏷️ React 🏷️ NewsAPI
+
